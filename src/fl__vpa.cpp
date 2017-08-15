@@ -1,5 +1,4 @@
 #include "fl__vpa.h"
-#include <math.h>
 
 VirtualPopAnalysis::VirtualPopAnalysis(void)     
    {
